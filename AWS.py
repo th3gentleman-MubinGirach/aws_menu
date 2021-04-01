@@ -110,9 +110,9 @@ def key():
 
 
 def mnt():
-    os.system("mkfs.ext4 /dev/sdf")
+    os.system("mkfs.ext4 /dev/xvdf")
     os.system("yum install httpd")
-    os.system("mount /dev/sdf /var/www/html")
+    os.system("mount /dev/xvdf /var/www/html")
 
 
 def connect():

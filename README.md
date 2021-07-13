@@ -17,4 +17,7 @@ pictures stored in S3
 
 CloudFront and using the origin domain as S3 bucket.
 
+
+<b>For Reference Video <a href="https://www.linkedin.com/posts/mubingirach_aws-network-html-activity-6783286311282348032-V-yo">Click here</a>
+
  
